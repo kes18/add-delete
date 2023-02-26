@@ -1,0 +1,41 @@
+*{
+    background-color: pink;
+}
+/* .order{
+    padding-left: 390px;
+    padding-bottom: 100px;
+    justify-content: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.items{
+    color:aqua;
+    padding-left: 370px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.add{
+    background-color:transparent;
+    color:blue;
+} */
+.well{
+    margin-top: 150px;
+    padding-left: 500px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.items{
+    color:red;
+}
+.add{
+    background-color:beige;
+    color:green;
+}
+.del{
+    color:red;
+    background-color: beige;
+
+}
+.search{
+    background-color: beige;
+}
+    
